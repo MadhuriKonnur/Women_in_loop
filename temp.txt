@@ -1,0 +1,3 @@
+i kept new temp text in github repo which i copied 
+locally
+by git add file comes under track of git. and  moves  to area  called staging
