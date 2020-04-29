@@ -4,3 +4,5 @@ by git add file comes under track of git. and  moves  to area  called staging
 git add file  gives under git track or  git's eye and puts in staging
 git commit file  gives file verioning  and  keeps under commit area
 always staging, commit  are order steps . from commit area  only git push will take a data or code 
+just  making  this new  lines  to  fail .
+and go back to  previous  one
